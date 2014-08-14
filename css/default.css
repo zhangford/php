@@ -12,3 +12,8 @@ tr:nth-of-type(even)
 {
 	background-color: #ccc;
 }
+
+footer
+{
+	font-style: italic;
+}

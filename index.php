@@ -19,6 +19,7 @@ include('./tips.html');
 include('./preface.php');
 include('./chapter1.php');
 include('./chapter2.php');
+include('./chapter3.php');
 ?>
 </body>
 </html>
