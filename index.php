@@ -21,6 +21,7 @@ include('./chapter1.php');
 include('./chapter2.php');
 include('./chapter3.php');
 include('./chapter4.php');
+include('./chapter5.php');
 ?>
 </body>
 </html>
