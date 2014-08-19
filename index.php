@@ -23,6 +23,8 @@ include('./chapter3.php');
 include('./chapter4.php');
 include('./chapter5.php');
 include('./chapter6.php');
+include('./chapter7.php');
+include('./chapter8.php');
 ?>
 </body>
 </html>
