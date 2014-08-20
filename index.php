@@ -10,6 +10,8 @@
 <!DOCTYPE html>
 <html lang="zh">
 <head>
+	<title>PHP5权威编程</title>
+	<base href="http://localhost/php" target="_self" />
 	<meta charset="utf-8" />
 	<link rel="stylesheet" type="text/css" href="css/default.css" />
 </head>
