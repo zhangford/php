@@ -11,7 +11,7 @@
 <html lang="zh">
 <head>
 	<title>PHP5权威编程</title>
-	<base href="http://localhost/php" target="_self" />
+	<base href="http://localhost/php/" target="_self" />
 	<meta charset="utf-8" />
 	<link rel="stylesheet" type="text/css" href="css/default.css" />
 </head>
@@ -27,6 +27,7 @@ include('./chapter5.php');
 include('./chapter6.php');
 include('./chapter7.php');
 include('./chapter8.php');
+include('./chapter9.php');
 ?>
 </body>
 </html>

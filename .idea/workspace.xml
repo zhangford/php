@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b11c3cb-bf8f-4560-b0d2-99a61331a3d7" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter9.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/muscadine.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chapter8.php" afterPath="$PROJECT_DIR$/chapter8.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tips.html" afterPath="$PROJECT_DIR$/tips.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="php.iws" />
@@ -29,18 +33,38 @@
       <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="52" selection-start="205" selection-end="205" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="629">
+            <state line="25" column="26" selection-start="507" selection-end="507" vertical-scroll-proportion="-12.423077" vertical-offset="0" max-vertical-offset="544">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="chapter8.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="chapter1.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter1.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="29" column="29" selection-start="0" selection-end="930" vertical-scroll-proportion="-15.692307" vertical-offset="0" max-vertical-offset="646">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="chapter8.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapter8.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="275" column="8" selection-start="5999" selection-end="5999" vertical-scroll-proportion="0.6946108" vertical-offset="4358" max-vertical-offset="4726">
+            <state line="274" column="0" selection-start="5990" selection-end="5990" vertical-scroll-proportion="-52.076923" vertical-offset="3219" max-vertical-offset="4726">
               <folding>
-                <marker date="1408583328357" expanded="true" signature="5998:6016" placeholder="..." />
+                <marker date="1408604532989" expanded="true" signature="5998:6071" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="chapter9.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chapter9.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="8" selection-start="127" selection-end="127" vertical-scroll-proportion="0.4409222" vertical-offset="0" max-vertical-offset="347">
+              <folding>
+                <element signature="e#6#84#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -49,16 +73,7 @@
       <file leaf-file-name="muscadine.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/muscadine.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="66" selection-start="236" selection-end="236" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="221">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tips.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tips.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="30" selection-start="148" selection-end="148" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="255">
+            <state line="6" column="66" selection-start="236" selection-end="236" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="221">
               <folding />
             </state>
           </provider>
@@ -67,7 +82,7 @@
       <file leaf-file-name="chapter3.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapter3.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="21" selection-start="115" selection-end="115" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="663">
+            <state line="9" column="21" selection-start="115" selection-end="115" vertical-scroll-proportion="3.2692308" vertical-offset="153" max-vertical-offset="578">
               <folding />
             </state>
           </provider>
@@ -76,7 +91,7 @@
       <file leaf-file-name="chapter5.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapter5.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="41" column="20" selection-start="735" selection-end="735" vertical-scroll-proportion="0.0" vertical-offset="697" max-vertical-offset="2074">
+            <state line="30" column="44" selection-start="500" selection-end="500" vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="2074">
               <folding />
             </state>
           </provider>
@@ -85,24 +100,8 @@
       <file leaf-file-name="default.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/default.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="1" selection-start="189" selection-end="189" vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="646">
+            <state line="32" column="22" selection-start="423" selection-end="423" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="646">
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="chapter6.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter6.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="0" selection-start="858" selection-end="898" vertical-scroll-proportion="0.0" vertical-offset="612" max-vertical-offset="1819">
-              <folding>
-                <marker date="1408428661141" expanded="true" signature="184:231" placeholder="INSERT INTO ..." />
-                <marker date="1408428661141" expanded="true" signature="603:635" placeholder="SELECT userI..user..." />
-                <marker date="1408428661141" expanded="true" signature="709:1699" placeholder="..." />
-                <marker date="1408428661141" expanded="true" signature="709:849" placeholder="..." />
-                <marker date="1408428661141" expanded="true" signature="1360:1388" placeholder="..." />
-                <marker date="1408428661141" expanded="true" signature="4404:4509" placeholder="..." />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -148,15 +147,16 @@
         <option value="$PROJECT_DIR$/preface.php" />
         <option value="$PROJECT_DIR$/chapter3.php" />
         <option value="$PROJECT_DIR$/chapter4.php" />
-        <option value="$PROJECT_DIR$/tips.html" />
         <option value="$PROJECT_DIR$/temlate.tpl" />
         <option value="$PROJECT_DIR$/chapter5.php" />
         <option value="$PROJECT_DIR$/css/default.css" />
         <option value="$PROJECT_DIR$/create.php" />
         <option value="$PROJECT_DIR$/chapter6.php" />
         <option value="$PROJECT_DIR$/chapter7.php" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/chapter8.php" />
+        <option value="$PROJECT_DIR$/tips.html" />
+        <option value="$PROJECT_DIR$/chapter9.php" />
+        <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
   </component>
@@ -379,19 +379,23 @@
       <created>1408515935080</created>
       <updated>1408515935080</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="到了第8.5节，使用PEAR提供的XML处理">
+      <created>1408584957041</created>
+      <updated>1408584957041</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="-4" width="1374" height="749" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30247933" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3272727" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19864048" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20770393" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32669982" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
@@ -431,19 +435,13 @@
     <MESSAGE value="结束了第七章，这是本差劲的书！" />
     <MESSAGE value="保存今天的工作，添加一个图标进来" />
     <MESSAGE value="已到到了8.4.1节，使用SAX和DOM操作XML都不是很好，接下来是评价不错的SampleXML了，看看到底如何。" />
-    <option name="LAST_COMMIT_MESSAGE" value="已到到了8.4.1节，使用SAX和DOM操作XML都不是很好，接下来是评价不错的SampleXML了，看看到底如何。" />
+    <MESSAGE value="到了第8.5节，使用PEAR提供的XML处理" />
+    <option name="LAST_COMMIT_MESSAGE" value="到了第8.5节，使用PEAR提供的XML处理" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/chapter5.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="11" selection-start="210" selection-end="210" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="306">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="21" column="26" selection-start="374" selection-end="374" vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="510">
@@ -656,11 +654,6 @@
         <state line="2" column="0" selection-start="26" selection-end="26" vertical-scroll-proportion="0.061705988" vertical-offset="0" max-vertical-offset="551" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter1.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="134" selection-start="916" selection-end="916" vertical-scroll-proportion="0.8391813" vertical-offset="240" max-vertical-offset="646" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/preface.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="30" column="8" selection-start="604" selection-end="604" vertical-scroll-proportion="0.7605634" vertical-offset="155" max-vertical-offset="527" />
@@ -676,13 +669,6 @@
         <state line="5" column="27" selection-start="146" selection-end="146" vertical-scroll-proportion="0.23160763" vertical-offset="0" max-vertical-offset="367" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/default.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="1" selection-start="189" selection-end="189" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="646">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/create.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="16" column="58" selection-start="503" selection-end="503" vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="493">
@@ -694,23 +680,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter6.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="0" selection-start="858" selection-end="898" vertical-scroll-proportion="0.0" vertical-offset="612" max-vertical-offset="1819">
-          <folding>
-            <marker date="1408428661141" expanded="true" signature="184:231" placeholder="INSERT INTO ..." />
-            <marker date="1408428661141" expanded="true" signature="603:635" placeholder="SELECT userI..user..." />
-            <marker date="1408428661141" expanded="true" signature="709:1699" placeholder="..." />
-            <marker date="1408428661141" expanded="true" signature="709:849" placeholder="..." />
-            <marker date="1408428661141" expanded="true" signature="1360:1388" placeholder="..." />
-            <marker date="1408428661141" expanded="true" signature="4404:4509" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/ddLogo.png">
       <provider selected="true" editor-type-id="images">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter4.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="8" selection-start="373" selection-end="373" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="578" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/muscadine.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="66" selection-start="236" selection-end="236" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="221">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter5.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="44" selection-start="500" selection-end="500" vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="2074">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter6.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="90" column="8" selection-start="3841" selection-end="3841" vertical-scroll-proportion="0.13473053" vertical-offset="1485" max-vertical-offset="1819" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter7.php">
@@ -722,49 +718,53 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tips.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="30" selection-start="148" selection-end="148" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="255">
+        <state line="7" column="28" selection-start="221" selection-end="221" vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="272">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter3.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="21" selection-start="115" selection-end="115" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="663">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter4.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="8" selection-start="373" selection-end="373" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="578" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter5.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="20" selection-start="735" selection-end="735" vertical-scroll-proportion="0.0" vertical-offset="697" max-vertical-offset="2074">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="52" selection-start="205" selection-end="205" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="629">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/muscadine.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="66" selection-start="236" selection-end="236" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="221">
+        <state line="9" column="21" selection-start="115" selection-end="115" vertical-scroll-proportion="3.2692308" vertical-offset="153" max-vertical-offset="578">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter8.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="275" column="8" selection-start="5999" selection-end="5999" vertical-scroll-proportion="0.6946108" vertical-offset="4358" max-vertical-offset="4726">
+        <state line="274" column="0" selection-start="5990" selection-end="5990" vertical-scroll-proportion="-52.076923" vertical-offset="3219" max-vertical-offset="4726">
           <folding>
-            <marker date="1408583328357" expanded="true" signature="5998:6016" placeholder="..." />
+            <marker date="1408604532989" expanded="true" signature="5998:6071" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="29" selection-start="0" selection-end="930" vertical-scroll-proportion="-15.692307" vertical-offset="0" max-vertical-offset="646">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/default.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="22" selection-start="423" selection-end="423" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="646">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="26" selection-start="507" selection-end="507" vertical-scroll-proportion="-12.423077" vertical-offset="0" max-vertical-offset="544">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter9.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="8" selection-start="127" selection-end="127" vertical-scroll-proportion="0.4409222" vertical-offset="0" max-vertical-offset="347">
+          <folding>
+            <element signature="e#6#84#0" expanded="true" />
           </folding>
         </state>
       </provider>
