@@ -256,13 +256,23 @@ $p->appendChild($text);
 
 echo $dom->saveXML();
 ?>
-<p>SampleXML是处理XML最简单的方法，PHP5中默认开启，只需要以数据结构形式来访问即可。它有四个简单规则：</p>
+<p>SimpleXML是处理XML最简单的方法，PHP5中默认开启，只需要以数据结构形式来访问即可。它有四个简单规则：</p>
 <ol>
-	<li>属性表示元素的迭代器</li>
-	<li>数字索引表示元素</li>
-	<li>非数字索引表示属性</li>
-	<li>允许用字符串转换访问XML文件中所有的数据</li>
+	<li>属性表示元素的迭代器：表示你可以循环body中的所有p标记</li>
+	<li>数字索引表示元素：比如，你可以这样访问body中的第2个p标签$sx->body->p[1]</li>
+	<li>非数字索引表示属性：你可以这样访问body的背景$sx->body['background']</li>
+	<li>允许用字符串转换访问XML文件中所有的数据：表示你可以从元素中访问所有的文本数据，但是不包括其子元素的，如果想要显示子元素的内容可以加入asXML()方法，比如$sx->body->p[1]->asXML();</li>
 </ol>
+<p>创建SimpleXML对象有三种方式：
+	<ol>
+		<li>使用simplexml_load_file()函数直接载入XML文档并赋值给变量。比如：$sxl = simplexml_load_file('test.xml')</li>
+		<li>使用simplexml_load_string()函数从字符串变量中载入XML文档并赋值给变量</li>
+		<li>使用simplexml_load_dom()导入一个用PHP DOM函数创建的DomDocument对象。</li>
+	</ol>
+如果想遍历body节点所有的子元素，可以使用children()方法。比如：foreach($sx->body->children() as $element)。如果想遍历一个元素所有属性的话则使用attributtes()方法，比如：foreach($sx->body->p[0]->attributes() as $attribute).
+保存xml文件的方法如下：file_put_contents('filename.xml', $sx2->asXML)。
+</p>
+
 <footer>
 	<p></p>
 </footer>
