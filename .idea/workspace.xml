@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b11c3cb-bf8f-4560-b0d2-99a61331a3d7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter13.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter14.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter15.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chapter10.php" afterPath="$PROJECT_DIR$/chapter10.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter16.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chapter15.php" afterPath="$PROJECT_DIR$/chapter15.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tips.html" afterPath="$PROJECT_DIR$/tips.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="php.iws" />
@@ -61,30 +58,52 @@
       <file leaf-file-name="chapter13.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapter13.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="9" selection-start="0" selection-end="228" vertical-scroll-proportion="-7.1923075" vertical-offset="0" max-vertical-offset="289">
+            <state line="16" column="9" selection-start="0" selection-end="228" vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="374">
+              <folding>
+                <marker date="1409626200112" expanded="true" signature="125:208" placeholder="..." />
+                <marker date="1409626200112" expanded="true" signature="136:196" placeholder="..." />
+                <marker date="1409626200112" expanded="true" signature="217:227" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="chapter15.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter15.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="0" selection-start="88" selection-end="240" vertical-scroll-proportion="-4.269231" vertical-offset="25" max-vertical-offset="374">
+              <folding>
+                <element signature="e#6#84#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="chapter16.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter16.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="37" selection-start="125" selection-end="125" vertical-scroll-proportion="-5.8846154" vertical-offset="0" max-vertical-offset="391">
+              <folding>
+                <element signature="e#6#83#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="30" column="27" selection-start="643" selection-end="643" vertical-scroll-proportion="-9.192307" vertical-offset="169" max-vertical-offset="629">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="chapter15.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/chapter15.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="9" selection-start="136" selection-end="136" vertical-scroll-proportion="0.3667622" vertical-offset="25" max-vertical-offset="374">
-              <folding>
-                <element signature="e#6#84#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="chapter14.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="chapter14.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/chapter14.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="79" selection-start="671" selection-end="671" vertical-scroll-proportion="-10.961538" vertical-offset="106" max-vertical-offset="595">
-              <folding>
-                <element signature="e#6#84#0" expanded="true" />
-              </folding>
+            <state line="27" column="10" selection-start="712" selection-end="712" vertical-scroll-proportion="0.5952381" vertical-offset="174" max-vertical-offset="510">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -92,16 +111,7 @@
       <file leaf-file-name="muscadine.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/muscadine.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="66" selection-start="236" selection-end="236" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="221">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="chapter5.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter5.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="44" selection-start="500" selection-end="500" vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="2074">
+            <state line="6" column="66" selection-start="236" selection-end="236" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="221">
               <folding />
             </state>
           </provider>
@@ -112,19 +122,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state line="8" column="8" selection-start="96" selection-end="96" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="374">
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="create.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/create.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="58" selection-start="503" selection-end="503" vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="493">
-              <folding>
-                <marker date="1408418536076" expanded="true" signature="380:446" placeholder="CREATE TABLE..document..." />
-                <marker date="1408418536076" expanded="true" signature="449:502" placeholder="CREATE TABLE..dictionary..." />
-                <marker date="1408418536076" expanded="true" signature="505:580" placeholder="CREATE TABLE..lookup..." />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -159,9 +156,10 @@
         <option value="$PROJECT_DIR$/chapter10.php" />
         <option value="$PROJECT_DIR$/chapter13.php" />
         <option value="$PROJECT_DIR$/tips.html" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/chapter14.php" />
         <option value="$PROJECT_DIR$/chapter15.php" />
+        <option value="$PROJECT_DIR$/chapter16.php" />
+        <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
   </component>
@@ -226,7 +224,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -275,6 +272,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -404,7 +402,11 @@
       <created>1409559338490</created>
       <updated>1409559338490</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="结束第14章，这本书好多地方译得很差劲。因为比较老有很多过时的技术。早点看完去学别的。">
+      <created>1409629706855</created>
+      <updated>1409629706855</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -416,7 +418,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26359516" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27114803" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32669982" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
@@ -424,12 +426,12 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3289256" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3289256" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -461,17 +463,13 @@
     <MESSAGE value="第9.2节 文件与流，没有用到过这类技术，有点枯燥，慢慢来" />
     <MESSAGE value="存档2014-8-26" />
     <MESSAGE value="结束第九章 这一章内容很多，不常用，讲得也不够清楚。用到时再说。这本书就看这一遍就够了，没什么再看一次的必要。" />
-    <option name="LAST_COMMIT_MESSAGE" value="结束第九章 这一章内容很多，不常用，讲得也不够清楚。用到时再说。这本书就看这一遍就够了，没什么再看一次的必要。" />
+    <MESSAGE value="结束第14章，这本书好多地方译得很差劲。因为比较老有很多过时的技术。早点看完去学别的。" />
+    <option name="LAST_COMMIT_MESSAGE" value="结束第14章，这本书好多地方译得很差劲。因为比较老有很多过时的技术。早点看完去学别的。" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="26" selection-start="374" selection-end="374" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tips.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="28" selection-start="221" selection-end="221" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="238" />
@@ -636,9 +634,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="16" column="58" selection-start="503" selection-end="503" vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="493">
           <folding>
-            <marker date="1408418536076" expanded="true" signature="380:446" placeholder="CREATE TABLE..document..." />
-            <marker date="1408418536076" expanded="true" signature="449:502" placeholder="CREATE TABLE..dictionary..." />
-            <marker date="1408418536076" expanded="true" signature="505:580" placeholder="CREATE TABLE..lookup..." />
+            <marker date="1408418536076" expanded="true" signature="-1:-1" placeholder="CREATE TABLE..document..." />
+            <marker date="1408418536076" expanded="true" signature="-1:-1" placeholder="CREATE TABLE..dictionary..." />
+            <marker date="1408418536076" expanded="true" signature="-1:-1" placeholder="CREATE TABLE..lookup..." />
           </folding>
         </state>
       </provider>
@@ -710,9 +708,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tips.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="31" selection-start="247" selection-end="247" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="289">
-          <folding />
-        </state>
+        <state line="8" column="31" selection-start="247" selection-end="247" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="289" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/muscadine.xml">
@@ -722,35 +718,46 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/chapter13.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="9" selection-start="0" selection-end="228" vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="374">
+          <folding>
+            <marker date="1409626200112" expanded="true" signature="125:208" placeholder="..." />
+            <marker date="1409626200112" expanded="true" signature="136:196" placeholder="..." />
+            <marker date="1409626200112" expanded="true" signature="217:227" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter15.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="0" selection-start="88" selection-end="240" vertical-scroll-proportion="-4.269231" vertical-offset="25" max-vertical-offset="374">
+          <folding>
+            <element signature="e#6#84#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter16.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="37" selection-start="125" selection-end="125" vertical-scroll-proportion="-5.8846154" vertical-offset="0" max-vertical-offset="391">
+          <folding>
+            <element signature="e#6#83#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="27" selection-start="699" selection-end="699" vertical-scroll-proportion="-10.5" vertical-offset="169" max-vertical-offset="595">
+        <state line="30" column="27" selection-start="643" selection-end="643" vertical-scroll-proportion="-9.192307" vertical-offset="169" max-vertical-offset="629">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter14.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="79" selection-start="671" selection-end="671" vertical-scroll-proportion="-10.961538" vertical-offset="106" max-vertical-offset="595">
-          <folding>
-            <element signature="e#6#84#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter13.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="9" selection-start="0" selection-end="228" vertical-scroll-proportion="-7.1923075" vertical-offset="0" max-vertical-offset="289">
+        <state line="27" column="10" selection-start="712" selection-end="712" vertical-scroll-proportion="0.5952381" vertical-offset="174" max-vertical-offset="510">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter15.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="9" selection-start="136" selection-end="136" vertical-scroll-proportion="0.3667622" vertical-offset="25" max-vertical-offset="374">
-          <folding>
-            <element signature="e#6#84#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>

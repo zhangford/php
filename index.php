@@ -31,6 +31,8 @@ include('./chapter9.php');
 include('./chapter10.php');
 include('./chapter13.php');
 include('./chapter14.php');
+include('./chapter15.php');
+include('./chapter16.php');
 ?>
 </body>
 </html>

@@ -9,7 +9,7 @@
 <header><h1>一个编写PHP扩展的介绍</h1></header>
 <section>
 	<article>
-		<p></p>
+		<p>这一章介绍了用C编写PHP扩展，还要和PHP一起编译，这也太费劲了，实用性不强。</p>
 	</article>
 
 </section>
