@@ -28,6 +28,9 @@ include('./chapter6.php');
 include('./chapter7.php');
 include('./chapter8.php');
 include('./chapter9.php');
+include('./chapter10.php');
+include('./chapter13.php');
+include('./chapter14.php');
 ?>
 </body>
 </html>
